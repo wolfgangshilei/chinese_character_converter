@@ -1,7 +1,5 @@
 defmodule ChConverter do
   @moduledoc """
-  Documentation for ChConverter.
-
   A chinese characters' simple <-> tradition conversion implementation
   by macro.
 
